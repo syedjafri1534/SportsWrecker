@@ -8,4 +8,4 @@ It's completely build with CSS and using JavaScript for functions.
 #BACKEND
 Backend of this web program is built using PHP, the database that was used for this program was MySQL.
 
-![Landing Page]([1.png](https://raw.githubusercontent.com/syedjafri1534/SportsWrecker/main/1.PNG))
+![Landing Page](https://raw.githubusercontent.com/syedjafri1534/SportsWrecker/main/1.PNG)
