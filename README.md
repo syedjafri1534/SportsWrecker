@@ -21,7 +21,7 @@ Backend of this web program is built using PHP, the database that was used for t
 ![](https://raw.githubusercontent.com/syedjafri1534/SportsWrecker/main/4.PNG)
 
 #AboutUs
-![](https://raw.githubusercontent.com/syedjafri1534/SportsWrecker/main/11.PNG)
+![](https://raw.githubusercontent.com/syedjafri1534/SportsWrecker/main/11.png)
 
 #Dashboard
 ![](https://raw.githubusercontent.com/syedjafri1534/SportsWrecker/main/14.PNG)
